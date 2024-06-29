@@ -15,7 +15,7 @@ Polymorphism: Enables methods to perform different tasks based on the context in
 Abstraction: Focuses on exposing only the essential features of an object while hiding the implementation details, simplifying the system's usage and maintenance.
 Key Roles and Features:
 
-#User:
+# User:
 
 Registration and Login: Users can register and log in to the system securely.
 Product Browsing: Users can browse available products, view details, and check availability.
